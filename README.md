@@ -1,5 +1,5 @@
 # FWC-FunWithCurrency
-An AR based app made for fun .
+An AR based app made for fun.
 
 ## Screenshots
 
