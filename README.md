@@ -1,7 +1,7 @@
 # FWC-FunWithCurrency 
 An AR based app made for fun.
 
-## Screenshots
+## Screenshots 
 
 ![img-20171007-wa0008](https://user-images.githubusercontent.com/31897425/31307430-112972d2-ab82-11e7-99e8-614a3c83e1ce.jpg)
 
